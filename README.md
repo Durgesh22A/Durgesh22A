@@ -6,13 +6,13 @@
 
 Building things. Learning deeply. Shipping consistently.
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/Durgesh22A">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://https://www.linkedin.com/in/durgesh-kumar-b7675237a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dk2010durgesh@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
