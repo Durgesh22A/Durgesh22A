@@ -94,17 +94,17 @@ Explore my GitHub repositories for more experiments, projects and coding work.
 
 ---
 
-⚡ GitHub Activity
+## ⚡ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh22A&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh22A&layout=donut&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9" height="180"/>
+<img src="https://raw.githubusercontent.com/Durgesh22A/Durgesh22A/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
+
+<p align="center">
+  <i>Consistently learning, building and contributing.</i>
+</p>
 
 ---
 
