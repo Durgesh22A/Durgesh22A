@@ -86,25 +86,33 @@ Tools
 
 <!-- ======================================================= -->
 
-> featured_projects
+## `> featured_projects`
 
 <div align="center">
 
-<a href="https://github.com/Durgesh22A"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Durgesh22A&repo=End-Term---5&theme=github_dark&hide_border=true"/> </a>
+<a href="https://github.com/Durgesh22A">
+<img src="https://img.shields.io/badge/Riffora-Music%20Platform-8A2BE2?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
-<a href="https://github.com/Durgesh22A"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Durgesh22A&repo=FocusFlow&theme=github_dark&hide_border=true"/> </a>
+<a href="https://github.com/Durgesh22A">
+<img src="https://img.shields.io/badge/ShopKart-E--Commerce-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Durgesh22A">
+<img src="https://img.shields.io/badge/FocusFlow-Productivity-00C7B7?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
 
 </div>
 
-Project	Description	Tech
-Riffora	Music discovery and streaming experience	MERN
-ShopKart	Full-stack e-commerce application	MERN
-FocusFlow	Productivity dashboard with Kanban, habits & Pomodoro	HTML, CSS, JS
-ClipMate	Browser-based clipboard utility	HTML, CSS, JS
-Google Drive Clone	Drive-inspired UI project	HTML, CSS, JS
-Amazon Clone	E-commerce frontend clone	HTML, CSS, JS
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **Riffora** | Music discovery and streaming platform | MERN |
+| **ShopKart** | Full-stack e-commerce application | MERN |
+| **FocusFlow** | Productivity dashboard with Kanban, habits & Pomodoro | HTML, CSS, JS |
+| **ClipMate** | Browser-based clipboard utility | HTML, CSS, JS |
+| **Google Drive Clone** | Drive-inspired UI | HTML, CSS, JS |
+| **Amazon Clone** | E-commerce frontend clone | HTML, CSS, JS |
 
-Replace project links above with the exact repository URLs when needed.
 
 <!-- ======================================================= -->
 
