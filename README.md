@@ -94,15 +94,15 @@ Explore my GitHub repositories for more experiments, projects and coding work.
 
 ---
 
-## 📊 GitHub Stats
+⚡ GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Durgesh22A&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh22A&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh22A&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Durgesh22A&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh22A&layout=donut&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9" height="180"/>
 
 </div>
 
