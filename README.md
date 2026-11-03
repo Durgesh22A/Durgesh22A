@@ -1,137 +1,238 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:6C3CE9,100:09090F&height=200&section=header&text=Durgesh%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
+<!-- Replace USERNAME below with your GitHub username -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Projects+That+Solve+Problems;React+%7C+Node.js+%7C+MongoDB;Learning%2C+Building%2C+Improving+Every+Day" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=190&section=header&text=DURGESH%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20STUDENT%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20BUILDER&descAlignY=60&descSize=16" width="100%" />
+
+Building things. Learning deeply. Shipping consistently.
+
+<a href="https://github.com/USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=2563eb&label=PROFILE+VIEWS" />
 
 </div>
 
----
+01 / ABOUT
 
-## 👨‍💻 About Me
+Student at Scaler School of Technology
+Focused on Java, DSA, and full-stack development
+Interested in building practical products and understanding systems end-to-end
+Currently exploring machine learning and AI-powered applications
 
-```javascript
-const durgesh = {
-    education: ["Scaler School of Technology", "BITS Pilani"],
-    role: "Computer Science Student & Developer",
-    interests: ["Full Stack Development", "Software Engineering", "Machine Learning"],
-    currentlyLearning: ["Advanced DSA", "System Design"],
-    lookingFor: ["Remote Internships", "Freelance Projects"],
-};
-```
+🎓 Computer Science student at Scaler School of Technology
 
-* 🎓 Pursuing Computer Science at Scaler School of Technology
-* 🎓 B.Sc. Computer Science at BITS Pilani
-* 💻 Building full-stack web applications
-* 🚀 Interested in creating scalable and practical products
-* 🌱 Exploring Machine Learning
-* 💼 Open to remote internships and freelance opportunities
+💻 Building with Java, JavaScript, React, Node.js, Express, MongoDB & MySQL
 
----
+🧠 Practicing DSA and problem-solving consistently
 
-## 🛠️ Tech Stack
+🛠️ Learning by building projects—not just collecting tutorials
+
+🌱 Exploring Machine Learning and AI fundamentals
+
+02 / TECH STACK
 
 <div align="center">
 
-### Frontend
+LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+FRONTEND
 
-### Backend & Database
+BACKEND
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+DATABASES & TOOLS
 
-### Languages & Tools
+Java
 
-<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
+React
+
+Node.js
+
+MongoDB
+
+JavaScript
+
+HTML5
+
+Express.js
+
+MySQL
+
+Python
+
+CSS3
+
+REST APIs
+
+Git & GitHub
+
+SQL
+
+Responsive UI
+
+
+
+VS Code
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
 
 </div>
 
----
+03 / PROJECTS
 
-## 🚀 Featured Projects
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 ShopKart
+🛍️ ShopKart
 
-MERN-based e-commerce application featuring authentication and product management.
+MERN · Authentication
 
-**Tech:** React • Node.js • MongoDB
+Customer-facing authentication flow with backend auth APIs and MongoDB integration.
+
+React Node.js Express MongoDB
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎵 Riffora
+🎧 Riffora
 
-Music streaming web application with playlists, music discovery and playback.
+Full-stack · Audio Platform
 
-**Tech:** React • Node.js • MongoDB
+Music-focused web application with search, playlists, recently played, and audio playback features.
+
+JavaScript Node.js MongoDB
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ FocusFlow
+⚡ FocusFlow
 
-Student productivity dashboard with Kanban, habits, deadlines and Pomodoro timer.
+Productivity Dashboard
 
-**Tech:** HTML • CSS • JavaScript
+A student productivity dashboard featuring Kanban, habits, deadlines, Pomodoro timer, and theme switching.
+
+HTML CSS JavaScript LocalStorage
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💡 More Projects
+🧩 ClipMate
 
-Explore my GitHub repositories for more experiments, projects and coding work.
+Frontend Project
+
+A lightweight web project built with core frontend technologies.
+
+HTML CSS JavaScript
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+☁️ Google Drive Clone
+
+UI Clone
+
+A practice project recreating a familiar cloud-storage interface.
+
+HTML CSS JavaScript
+
+</td>
+<td width="50%" valign="top">
+
+🛒 Amazon Clone
+
+Static UI
+
+A frontend practice project inspired by an e-commerce storefront.
+
+HTML CSS
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## ⚡ GitHub Activity
+Add repository links to each project title when you publish this README. Keep only projects you want visitors to see.
+
+04 / CURRENT FOCUS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Durgesh22A/Durgesh22A/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+LEARNING
+
+BUILDING
+
+PRACTICING
+
+Java & DSA
+
+Full-stack applications
+
+Problem solving
+
+Backend fundamentals
+
+React interfaces
+
+Data structures
+
+ML fundamentals
+
+APIs & databases
+
+Algorithms
 
 </div>
 
-<p align="center">
-  <i>Consistently learning, building and contributing.</i>
-</p>
-
----
-
-## 🤝 Let's Connect
+05 / GITHUB ACTIVITY
 
 <div align="center">
 
-<a href="https://github.com/Durgesh22A">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<!-- Replace USERNAME with your GitHub username -->
 
-<a href="https://www.linkedin.com/in/durgesh-kumar-b7675237a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true" />
 
-<a href="mailto:dk2010durgesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+06 / LET'S CONNECT
 
 <div align="center">
 
-### 💜 Building. Learning. Improving.
+Open to learning, collaboration, and building meaningful projects.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:6C3CE9,100:09090F&height=100&section=footer" width="100%"/>
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+“The best way to learn is to build something that makes you curious.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
