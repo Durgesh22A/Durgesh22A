@@ -28,7 +28,7 @@
 <!--                     ABOUT SECTION                         -->
 <!-- ======================================================= -->
 
-## `> whoami`
+## `1 whoami`
 
 java
 public class Durgesh {
@@ -58,7 +58,7 @@ public class Durgesh {
 
 <!-- ======================================================= -->
 
-## > tech_stack
+## `2 tech_stack`
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Tools
 
 <!-- ======================================================= -->
 
-## `> featured_projects`
+## `3 featured_projects`
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Tools
 
 <!-- ======================================================= -->
 
-## > github_analytics
+## `4 github_analytics`
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Tools
 
 <!-- ======================================================= -->
 
-## > contribution_activity
+## `5 contribution_activity`
 
 <div align="center">
 
@@ -158,7 +158,7 @@ Tools
 
 <!-- ======================================================= -->
 
-## `> pacman_mode`
+## `6 pacman_mode`
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Tools
 
 <!-- ======================================================= -->
 
-## `> current_focus`
+## `7 current_focus`
 
 | ID | CURRENT OBJECTIVE |
 |:--:|:---|
@@ -188,7 +188,7 @@ Tools
 
 <!-- ======================================================= -->
 
-## > connect
+## `8 connect`
 
 <div align="center">
 
