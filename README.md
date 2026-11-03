@@ -108,16 +108,6 @@ Explore my GitHub repositories for more experiments, projects and coding work.
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-    
-  <img src="https://raw.githubusercontent.com/Durgesh22A/Durgesh22A/output/github-snake-dark.svg" width="100%" />
-  
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
