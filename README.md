@@ -1,197 +1,196 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=190&section=header&text=DURGESH%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20STUDENT%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20BUILDER&descAlignY=60&descSize=16" width="100%" />
-
-### Building things. Learning deeply. Shipping consistently.
-
-<a href="https://github.com/Durgesh22A">
-  <img src="https://img.shields.io/badge/GitHub-Durgesh22A-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/durgesh-kumar-b7675237a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:dk2010durgesh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Durgesh22A&style=flat-square&color=2563eb&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-## `01 / ABOUT`
-
-```text
-Computer Science student at Scaler School of Technology
-Focused on Java, DSA, and full-stack development
-Interested in building practical products and understanding systems end-to-end
-Exploring machine learning and AI-powered applications
-```
-
-* 🎓 Computer Science student at **Scaler School of Technology**
-* 💻 Working with **Java, JavaScript, React, Node.js, Express, MongoDB & MySQL**
-* 🧠 Practicing **DSA and problem-solving** consistently
-* 🛠️ Learning by building projects—not just collecting tutorials
-* 🌱 Exploring **Machine Learning and AI** fundamentals
-
----
-
-## `02 / TECH STACK`
+<!-- ======================================================= -->
+<!--                     HERO SECTION                         -->
+<!-- ======================================================= -->
 
 <div align="center">
 
-| **LANGUAGES** |  **FRONTEND** | **BACKEND** | **DATABASES & TOOLS** |
-| :-----------: | :-----------: | :---------: | :-------------------: |
-|      Java     |     React     |   Node.js   |        MongoDB        |
-|   JavaScript  |     HTML5     |  Express.js |         MySQL         |
-|     Python    |      CSS3     |  REST APIs  |      Git & GitHub     |
-|      SQL      | Responsive UI |             |        VS Code        |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:161B22,100:0D1117&text=DURGESH%20KUMAR&fontColor=7C9EFF&fontSize=52&fontAlignY=40&animation=fadeIn&desc=COMPUTER%20SCIENCE%20%20%E2%80%A2%20%20DEVELOPER%20%20%E2%80%A2%20%20BUILDER&descAlignY=65&descSize=14"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
-
-</div>
-
----
-
-## `03 / PROJECTS`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ [ShopKart](https://github.com/Durgesh22A)
-
-**MERN · Authentication**
-
-Customer-facing authentication flow with backend auth APIs and MongoDB integration.
-
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎧 [Riffora](https://github.com/Durgesh22A)
-
-**Full-stack · Audio Platform**
-
-Music-focused web application with search, playlists, recently played, and audio playback features.
-
-`JavaScript` `Node.js` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ [FocusFlow](https://github.com/Durgesh22A)
-
-**Productivity Dashboard**
-
-A student productivity dashboard featuring Kanban, habits, deadlines, Pomodoro timer, and theme switching.
-
-`HTML` `CSS` `JavaScript` `LocalStorage`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 [ClipMate](https://github.com/Durgesh22A)
-
-**Frontend Project**
-
-A lightweight web project built with core frontend technologies.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ [Google Drive Clone](https://github.com/Durgesh22A)
-
-**UI Clone**
-
-A practice project recreating a familiar cloud-storage interface.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [Amazon Clone](https://github.com/Durgesh22A)
-
-**Static UI**
-
-A frontend practice project inspired by an e-commerce storefront.
-
-`HTML` `CSS`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> **Note:** Replace each project link above with its exact repository URL when ready.
-
----
-
-## `04 / CURRENT FOCUS`
-
-<div align="center">
-
-|      `LEARNING`      |        `BUILDING`       |   `PRACTICING`  |
-| :------------------: | :---------------------: | :-------------: |
-|      Java & DSA      | Full-stack applications | Problem solving |
-| Backend fundamentals |     React interfaces    | Data structures |
-|    ML fundamentals   |     APIs & databases    |    Algorithms   |
-
-</div>
-
----
-
-## `05 / GITHUB ACTIVITY`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Durgesh22A&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Durgesh22A&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh22A&theme=tokyo-night&hide_border=true&area=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh22A&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## `06 / LET'S CONNECT`
-
-<div align="center">
-
-**Open to learning, collaboration, and building meaningful projects.**
-
 <a href="https://github.com/Durgesh22A">
-<img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Durgesh22A&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </a>
 
 <a href="https://www.linkedin.com/in/durgesh-kumar-b7675237a/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dk2010durgesh@gmail.com">
-<img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+<!--                     ABOUT SECTION                         -->
+<!-- ======================================================= -->
+
+## `> whoami`
+
+java
+public class Durgesh {
+
+    String education = "Computer Science @ Scaler School of Technology";
+
+    String[] interests = {
+        "Software Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Problem Solving"
+    };
+
+    String[] currentlyLearning = {
+        "Data Structures & Algorithms",
+        "Backend Engineering",
+        "AI / ML"
+    };
+
+    String mindset = "Build. Break. Learn. Improve.";
+
+}
+
+<!-- ======================================================= -->
+
+<!-- TECH STACK -->
+
+<!-- ======================================================= -->
+
+> tech_stack
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite"/>
+
+Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+
+</div>
+
+<!-- ======================================================= -->
+
+<!-- PROJECTS -->
+
+<!-- ======================================================= -->
+
+> featured_projects
+
+<div align="center">
+
+<a href="https://github.com/Durgesh22A"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Durgesh22A&repo=End-Term---5&theme=github_dark&hide_border=true"/> </a>
+
+<a href="https://github.com/Durgesh22A"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Durgesh22A&repo=FocusFlow&theme=github_dark&hide_border=true"/> </a>
+
+</div>
+
+Project	Description	Tech
+Riffora	Music discovery and streaming experience	MERN
+ShopKart	Full-stack e-commerce application	MERN
+FocusFlow	Productivity dashboard with Kanban, habits & Pomodoro	HTML, CSS, JS
+ClipMate	Browser-based clipboard utility	HTML, CSS, JS
+Google Drive Clone	Drive-inspired UI project	HTML, CSS, JS
+Amazon Clone	E-commerce frontend clone	HTML, CSS, JS
+
+Replace project links above with the exact repository URLs when needed.
+
+<!-- ======================================================= -->
+
+<!-- GITHUB ANALYTICS -->
+
+<!-- ======================================================= -->
+
+> github_analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Durgesh22A&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Durgesh22A&theme=github-dark-blue&hide_border=true"/>
 
 <br/><br/>
 
-*“The best way to learn is to build something that makes you curious.”*
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh22A&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:0f172a&height=100&section=footer" width="100%" />
+</div>
+
+<!-- ======================================================= -->
+
+<!-- CONTRIBUTION ACTIVITY -->
+
+<!-- ======================================================= -->
+
+> contribution_activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh22A&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Durgesh22A&theme=github_dark"/>
+
+</div>
+
+<!-- ======================================================= -->
+
+<!-- PACMAN CONTRIBUTIONS -->
+
+<!-- ======================================================= -->
+
+> pacman_mode
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Durgesh22A/Durgesh22A/output/pacman-contribution-graph.svg"/>
+
+</div>
+
+<!-- ======================================================= -->
+
+<!-- CURRENT FOCUS -->
+
+<!-- ======================================================= -->
+
+> current_focus
+[01]  Strengthening DSA & problem-solving
+[02]  Building full-stack applications
+[03]  Exploring AI / ML applications
+[04]  Learning backend architecture
+[05]  Turning ideas into real products
+
+<!-- ======================================================= -->
+
+<!-- CONNECT -->
+
+<!-- ======================================================= -->
+
+> connect
+
+<div align="center">
+
+<a href="https://github.com/Durgesh22A"> <img src="https://img.shields.io/badge/GitHub-Durgesh22A-181717?style=for-the-badge&logo=github"/> </a>
+
+<a href="https://www.linkedin.com/in/durgesh-kumar-b7675237a/"> <img src="https://img.shields.io/badge/LinkedIn-Durgesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
+
+<a href="mailto:dk2010durgesh@gmail.com"> <img src="https://img.shields.io/badge/Email-dk2010durgesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/> </a>
+
+<br/><br/>
+
+Building something meaningful, one commit at a time.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C9EFF,100:BD34FE&height=100&section=footer"/>
 
 </div>
