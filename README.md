@@ -21,7 +21,7 @@ const durgesh = {
 ```
 
 * 🎓 Pursuing Computer Science at Scaler School of Technology
-* 🎓 B.Sc. Computer Science at BITS Pilani (Online) — **CGPA 9.54**
+* 🎓 B.Sc. Computer Science at BITS Pilani
 * 💻 Building full-stack web applications
 * 🚀 Interested in creating scalable and practical products
 * 🌱 Exploring Machine Learning
