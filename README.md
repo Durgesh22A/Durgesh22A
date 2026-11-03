@@ -124,9 +124,9 @@ Tools
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Durgesh22A&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Durgesh22A&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Durgesh22A&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Durgesh22A&theme=github-dark-blue&hide_border=true"/>
 
 <br/><br/>
 
