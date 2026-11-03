@@ -58,7 +58,7 @@ public class Durgesh {
 
 <!-- ======================================================= -->
 
-> tech_stack
+## > tech_stack
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Tools
 
 <!-- ======================================================= -->
 
-> github_analytics
+## > github_analytics
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Tools
 
 <!-- ======================================================= -->
 
-> contribution_activity
+## > contribution_activity
 
 <div align="center">
 
@@ -158,11 +158,11 @@ Tools
 
 <!-- ======================================================= -->
 
-> pacman_mode
+## `> pacman_mode`
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Durgesh22A/Durgesh22A/output/pacman-contribution-graph.svg"/>
+<img src="https://raw.githubusercontent.com/Durgesh22A/Durgesh22A/output/pacman-contribution-graph.svg" width="100%"/>
 
 </div>
 
@@ -172,12 +172,15 @@ Tools
 
 <!-- ======================================================= -->
 
-> current_focus
-[01]  Strengthening DSA & problem-solving
-[02]  Building full-stack applications
-[03]  Exploring AI / ML applications
-[04]  Learning backend architecture
-[05]  Turning ideas into real products
+## `> current_focus`
+
+| ID | CURRENT OBJECTIVE |
+|:--:|:---|
+| 01 | Strengthening DSA & problem-solving |
+| 02 | Building full-stack applications |
+| 03 | Exploring AI / ML applications |
+| 04 | Learning backend architecture |
+| 05 | Turning ideas into real products |
 
 <!-- ======================================================= -->
 
@@ -185,7 +188,7 @@ Tools
 
 <!-- ======================================================= -->
 
-> connect
+## > connect
 
 <div align="center">
 
