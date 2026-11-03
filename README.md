@@ -17,7 +17,6 @@ const durgesh = {
     interests: ["Full Stack Development", "Software Engineering", "Machine Learning"],
     currentlyLearning: ["Advanced DSA", "System Design"],
     lookingFor: ["Remote Internships", "Freelance Projects"],
-    available: "4-5 hours/day"
 };
 ```
 
