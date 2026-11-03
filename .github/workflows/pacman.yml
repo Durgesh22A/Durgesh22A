@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman Graph
+      - name: Generate Pacman Contribution Graph
         uses: Platane/snk@v3
         with:
           github_user_name: Durgesh22A
@@ -26,7 +26,7 @@ jobs:
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Deploy to Output Branch
+      - name: Deploy Pacman Graph
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
