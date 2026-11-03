@@ -162,7 +162,7 @@ Tools
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Durgesh22A/Durgesh22A/output/pacman-contribution-graph.svg" width="100%"/>
+<img width="100%" src="https://raw.githubusercontent.com/Durgesh22A/Durgesh22A/output/pacman-contribution-graph.svg"/>
 
 </div>
 
